@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/mobile.png)
-![](./screenshots/desktop.png)
+![](./screenshot/mobile.png)
+![](./screenshot/desktop.png)
 
 ## My process
 
